@@ -1,5 +1,4 @@
 /*
---PROGRAM NAME: rlch6e4.cpp
 --PROGRAM STATEMENT: Create an employee class, basing it on Exercise 4 of Chapter 
 4. The member data should comprise an int for storing the employee number and a 
 float for storing the employee’s compensation. Member functions should allow the 
