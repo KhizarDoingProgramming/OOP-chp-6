@@ -1,5 +1,4 @@
 /*
---PROGRAM NAME: rlch6e6.cpp
 --PROGRAM STATEMENT: Extend the employee class of Exercise 4 to include a date 
 class (see Exercise 5) and an etype enum (see Exercise 6 in Chapter 4). An object 
 of the date class should be used to hold the date of first employment; that is, 
