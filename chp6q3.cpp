@@ -1,5 +1,4 @@
 /*
---PROGRAM NAME: rlch6e3.cpp
 --PROGRAM STATEMENT: Create a class called time that has separate int member 
 data for hours, minutes, and seconds. One constructor should initialize this 
 data to 0, and another should initialize it to fixed values. Another member 
