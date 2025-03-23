@@ -1,5 +1,4 @@
 /*
---PROGRAM NAME: rlch6e1.cpp
 --PROGRAM STATEMENT: Create a class that imitates part of the functionality of the 
 basic data type int. Call the class Int (note different capitalization). The only 
 data in this class is an int variable. Include member functions to initialize an 
