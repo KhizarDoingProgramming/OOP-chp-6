@@ -1,5 +1,4 @@
 /*
---PROGRAM NAME: rlch6e2.cpp
 --PROGRAM STATEMENT: Imagine a tollbooth at a bridge. Cars passing by the booth 
 are expected to pay a 50 cent toll. Mostly they do, but sometimes a car goes by 
 without paying. The tollbooth keeps track of the number of cars that have gone by, 
