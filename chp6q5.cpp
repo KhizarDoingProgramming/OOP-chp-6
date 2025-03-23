@@ -1,5 +1,4 @@
 /*
---PROGRAM NAME: rlch6e5.cpp
 --PROGRAM STATEMENT: Start with the date structure in Exercise 5 in Chapter 4 and 
 transform it into a date class. Its member data should consist of three ints: 
 month, day, and year. It should also have two member functions: getdate(), which 
