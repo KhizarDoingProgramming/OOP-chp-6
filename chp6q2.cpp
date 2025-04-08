@@ -40,10 +40,23 @@ public:
 };
 
 int main() {
+    char key;
     TollBooth t;
-    t.payingCar();
-    t.nopayCar();
-    t.payingCar();
-    t.display();
+    cout << "Press 'p' for paying car, 'n' for non-paying car, 'd' to display total, 'ESC' to escape: ";
+    while (true) {
+        cin >> key;
+        if (key == 'p') {
+            t.payingCar();
+        } else if (key == 'n') {
+            t.nopayCar();
+        } else if (key == 'd') {
+            t.display();
+        } else if (key == 27) { 
+            break;
+        } else {
+            cout << "Invalid input. Please try again." << endl;
+        }
+    }
+    cout << "Exiting program." << endl;
     return 0;
 }
